@@ -3,7 +3,7 @@ build:
     version: "3.0"
 
 customer:
-    message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION REST API With Changes validation "
+    message: "Welcome to MSEDCL bank customer related REST API - PRODUCTION REST API With Changes validation Date : 10=06-2026"
     contactDetails:
         name: "ISHWAR PRODUCTION PROFILE"
         email: "ishwar_chaudhari@mahadiscom.in"
